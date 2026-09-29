@@ -1,0 +1,14 @@
+<Window x:Class="CdTest.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid x:Name="Root" Background="#FF2B2B2B">
+    <StackPanel VerticalAlignment="Top" Margin="16" Spacing="8">
+      <TextBlock x:Name="Status" Foreground="White" Text="ContentDialog entrance animation test" />
+      <Button x:Name="Btn" Content="Show dialog" Click="Btn_Click" />
+    </StackPanel>
+    <!-- In-tree dialog: used by the 'tree' and 'inplace' modes (TransplantedRootInPopup / InPlace). -->
+    <ContentDialog x:Name="TreeDialog" Title="Do you want to end SearchIndexer.exe?"
+                   Content="If an open program is associated with this process, it will close and you will lose any unsaved data."
+                   PrimaryButtonText="End process" CloseButtonText="Cancel" DefaultButton="Primary" />
+  </Grid>
+</Window>

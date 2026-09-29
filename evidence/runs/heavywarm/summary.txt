@@ -1,0 +1,32 @@
+captured frames: 33, distinct: 22
+== pair 1: base frame #0, open-reference frame #1, MAD(base,open)=41.23
+  OPEN : frames in +700ms window = 1, INTERMEDIATE frames = 0, first change at +112.1 ms, settled at +112.1 ms
+     #  0  +-1292.1 ms  dt=   0.0  progress_open= 0.000  box=0x0
+     #  1  +  112.1 ms  dt=1404.1  progress_open= 1.000  box=488x150
+  CLOSE: frames in +700ms window = 4, INTERMEDIATE frames = 3, first change at +82.8 ms, settled at +180.6 ms
+     #  1  + -608.3 ms  dt=1404.1  progress_open= 1.000  box=488x150
+     #  2  +   82.8 ms  dt= 691.1  progress_open= 0.755  box=496x150
+     #  3  +  115.7 ms  dt=  33.0  progress_open= 0.447  box=504x154
+     #  4  +  148.6 ms  dt=  32.9  progress_open= 0.064  box=0x0
+     #  5  +  180.6 ms  dt=  32.1  progress_open= 0.000  box=0x0
+== pair 2: base frame #5, open-reference frame #16, MAD(base,open)=41.23
+  OPEN : frames in +700ms window = 11, INTERMEDIATE frames = 7, first change at +288.2 ms, settled at +444.2 ms
+     #  5  +-1570.2 ms  dt=  32.1  progress_open= 0.000  box=0x0
+     #  6  +  288.2 ms  dt=1858.3  progress_open= 0.137  box=0x0
+     #  7  +  305.7 ms  dt=  17.6  progress_open= 0.333  box=498x152
+     #  8  +  339.7 ms  dt=  33.9  progress_open= 0.685  box=494x150
+     #  9  +  358.6 ms  dt=  18.9  progress_open= 0.901  box=492x150
+     # 10  +  374.6 ms  dt=  16.0  progress_open= 0.920  box=492x150
+     # 11  +  391.4 ms  dt=  16.9  progress_open= 0.935  box=490x150
+     # 12  +  425.8 ms  dt=  34.4  progress_open= 0.964  box=488x150
+     # 13  +  444.2 ms  dt=  18.4  progress_open= 0.977  box=488x150
+     # 14  +  479.6 ms  dt=  35.3  progress_open= 0.993  box=488x150
+     # 15  +  514.0 ms  dt=  34.4  progress_open= 0.999  box=488x150
+     # 16  +  531.5 ms  dt=  17.5  progress_open= 1.000  box=488x150
+  CLOSE: frames in +700ms window = 5, INTERMEDIATE frames = 4, first change at +54.7 ms, settled at +140.9 ms
+     # 16  +-1006.8 ms  dt=  17.5  progress_open= 1.000  box=488x150
+     # 17  +   54.7 ms  dt=1061.5  progress_open= 0.921  box=492x150
+     # 18  +   87.3 ms  dt=  32.7  progress_open= 0.461  box=504x154
+     # 19  +  104.8 ms  dt=  17.4  progress_open= 0.315  box=504x154
+     # 20  +  124.4 ms  dt=  19.7  progress_open= 0.123  box=0x0
+     # 21  +  140.9 ms  dt=  16.5  progress_open= 0.000  box=0x0

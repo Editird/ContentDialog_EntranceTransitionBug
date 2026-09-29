@@ -1,0 +1,12 @@
+captured frames: 13, distinct: 7
+== pair 1: base frame #0, open-reference frame #1, MAD(base,open)=41.21
+  OPEN : frames in +700ms window = 1, INTERMEDIATE frames = 0, first change at +323.2 ms, settled at +323.2 ms
+     #  0  +-1358.0 ms  dt=   0.0  progress_open= 0.000  box=0x0
+     #  1  +  323.2 ms  dt=1681.2  progress_open= 1.000  box=488x150
+  CLOSE: frames in +700ms window = 5, INTERMEDIATE frames = 4, first change at +49.5 ms, settled at +149.6 ms
+     #  1  +-1211.4 ms  dt=1681.2  progress_open= 1.000  box=488x150
+     #  2  +   49.5 ms  dt=1261.0  progress_open= 0.840  box=492x150
+     #  3  +   81.8 ms  dt=  32.3  progress_open= 0.461  box=504x154
+     #  4  +   99.1 ms  dt=  17.2  progress_open= 0.316  box=504x154
+     #  5  +  116.4 ms  dt=  17.3  progress_open= 0.121  box=0x0
+     #  6  +  149.6 ms  dt=  33.2  progress_open= 0.000  box=0x0

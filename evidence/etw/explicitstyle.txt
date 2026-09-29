@@ -1,0 +1,25 @@
+   1636.7  CancelTransitions                  =0x0
+   1636.9  CancelTransitions                  =0x0
+   1653.0  CancelTransitions                  =0x0
+   1657.4  CancelTransitions                  =0x0
+   1658.9  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287E52230
+   1658.9  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287DD2900
+   1658.9  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287DD2900
+   1658.9  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287E52230
+   1659.0  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287C30780
+   1961.4  EndStoryboard                      ElementId=0x29287E60700
+   1963.5  CancelTransitions                  =0x0
+   1963.5  StopStoryboard                     ElementId=0x29287E60700
+   3167.0  CancelTransitions                  =0x0
+   3167.1  CancelTransitions                  =0x0
+   3177.0  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287E7A480
+   3177.0  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287DD3E40
+   3177.1  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287DD3E40
+   3177.1  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287E7A480
+   3177.1  BeginStoryboard                    ElementId=0x29287E60700 TargetElementId=0x29287C30780
+   3387.6  EndStoryboard                      ElementId=0x29287E60700
+   3389.2  CancelTransitions                  =0x0
+   3389.3  StopStoryboard                     ElementId=0x29287E60700
+   3389.4  CancelTransitions                  =0x0
+   3391.6  CancelTransitions                  =0x0
+   3391.6  CancelTransitions                  =0x0

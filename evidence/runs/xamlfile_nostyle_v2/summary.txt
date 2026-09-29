@@ -1,0 +1,20 @@
+captured frames: 23, distinct: 15
+== pair 1: base frame #0, open-reference frame #9, MAD(base,open)=75.45
+  OPEN : frames in +700ms window = 9, INTERMEDIATE frames = 4, first change at +151.9 ms, settled at +256.1 ms
+     #  0  +-1262.1 ms  dt=   0.0  progress_open= 0.000  box=0x0
+     #  1  +  151.9 ms  dt=1414.0  progress_open= 0.196  box=0x0
+     #  2  +  167.4 ms  dt=  15.5  progress_open= 0.763  box=494x126
+     #  3  +  186.0 ms  dt=  18.7  progress_open= 0.915  box=492x126
+     #  4  +  221.4 ms  dt=  35.3  progress_open= 0.965  box=490x126
+     #  5  +  256.1 ms  dt=  34.7  progress_open= 0.982  box=488x126
+     #  6  +  272.8 ms  dt=  16.7  progress_open= 0.988  box=488x126
+     #  7  +  291.2 ms  dt=  18.4  progress_open= 0.993  box=488x126
+     #  8  +  324.7 ms  dt=  33.6  progress_open= 0.999  box=488x126
+     #  9  +  341.6 ms  dt=  16.9  progress_open= 1.000  box=488x126
+  CLOSE: frames in +700ms window = 5, INTERMEDIATE frames = 4, first change at +68.4 ms, settled at +155.2 ms
+     #  9  +-1206.4 ms  dt=  16.9  progress_open= 1.000  box=488x126
+     # 10  +   68.4 ms  dt=1274.8  progress_open= 0.752  box=496x126
+     # 11  +   85.6 ms  dt=  17.2  progress_open= 0.548  box=502x130
+     # 12  +  103.2 ms  dt=  17.5  progress_open= 0.383  box=504x128
+     # 13  +  121.8 ms  dt=  18.7  progress_open= 0.155  box=0x0
+     # 14  +  155.2 ms  dt=  33.3  progress_open= 0.000  box=0x0

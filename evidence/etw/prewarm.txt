@@ -1,0 +1,46 @@
+   1571.5  CancelTransitions                  =0x0
+   1571.6  CancelTransitions                  =0x0
+   1585.4  CancelTransitions                  =0x0
+   1588.5  CancelTransitions                  =0x0
+   1588.7  CancelTransitions                  =0x0
+   1589.3  CancelTransitions                  =0x0
+   1589.3  CancelTransitions                  =0x0
+   1590.1  CancelTransitions                  =0x0
+   1590.1  CancelTransitions                  =0x0
+   1592.7  CancelTransitions                  =0x0
+   2270.8  CancelTransitions                  =0x0
+   2270.9  CancelTransitions                  =0x0
+   2286.1  BeginStoryboard                    ElementId=0x2B187C9BA00 TargetElementId=0x2B187CC6A20
+   2286.1  BeginStoryboard                    ElementId=0x2B187C9BA00 TargetElementId=0x2B187C151E0
+   2286.1  BeginStoryboard                    ElementId=0x2B187C9BA00 TargetElementId=0x2B187C151E0
+   2286.1  BeginStoryboard                    ElementId=0x2B187C9BA00 TargetElementId=0x2B187CC6A20
+   2286.1  BeginStoryboard                    ElementId=0x2B187C9BA00 TargetElementId=0x2B1824CE160
+   2495.4  EndStoryboard                      ElementId=0x2B187C9BA00
+   2496.9  CancelTransitions                  =0x0
+   2497.2  StopStoryboard                     ElementId=0x2B187C9BA00
+   2497.3  CancelTransitions                  =0x0
+   2499.3  CancelTransitions                  =0x0
+   4017.9  CancelTransitions                  =0x0
+   4018.1  CancelTransitions                  =0x0
+   4028.7  CancelTransitions                  =0x0
+   4032.6  BeginStoryboard                    ElementId=0x2B187C9B2D0 TargetElementId=0x2B187D35310
+   4032.7  BeginStoryboard                    ElementId=0x2B187C9B2D0 TargetElementId=0x2B187C150D0
+   4032.7  BeginStoryboard                    ElementId=0x2B187C9B2D0 TargetElementId=0x2B187C150D0
+   4032.7  BeginStoryboard                    ElementId=0x2B187C9B2D0 TargetElementId=0x2B187D35310
+   4032.7  BeginStoryboard                    ElementId=0x2B187C9B2D0 TargetElementId=0x2B1824CE160
+   4315.2  EndStoryboard                      ElementId=0x2B187C9B2D0
+   4317.0  CancelTransitions                  =0x0
+   4317.0  StopStoryboard                     ElementId=0x2B187C9B2D0
+   5549.2  CancelTransitions                  =0x0
+   5549.2  CancelTransitions                  =0x0
+   5555.0  BeginStoryboard                    ElementId=0x2B187C9B890 TargetElementId=0x2B187D35310
+   5555.0  BeginStoryboard                    ElementId=0x2B187C9B890 TargetElementId=0x2B187C14FC0
+   5555.0  BeginStoryboard                    ElementId=0x2B187C9B890 TargetElementId=0x2B187C14FC0
+   5555.0  BeginStoryboard                    ElementId=0x2B187C9B890 TargetElementId=0x2B187D35310
+   5555.0  BeginStoryboard                    ElementId=0x2B187C9B890 TargetElementId=0x2B1824CE160
+   5752.8  EndStoryboard                      ElementId=0x2B187C9B890
+   5753.9  CancelTransitions                  =0x0
+   5754.1  StopStoryboard                     ElementId=0x2B187C9B890
+   5754.2  CancelTransitions                  =0x0
+   5755.6  CancelTransitions                  =0x0
+   5755.8  CancelTransitions                  =0x0

@@ -1,0 +1,23 @@
+   2574.4  CancelTransitions                  =0x0
+   2574.5  CancelTransitions                  =0x0
+   2601.5  CancelTransitions                  =0x0
+   2604.9  CancelTransitions                  =0x0
+   2605.1  CancelTransitions                  =0x0
+   2605.4  CancelTransitions                  =0x0
+   2605.5  CancelTransitions                  =0x0
+   2605.9  CancelTransitions                  =0x0
+   2606.0  CancelTransitions                  =0x0
+   2608.9  CancelTransitions                  =0x0
+   4112.3  CancelTransitions                  =0x0
+   4112.3  CancelTransitions                  =0x0
+   4121.3  BeginStoryboard                    ElementId=0x22E87EF5130 TargetElementId=0x22E87F12EF0
+   4121.3  BeginStoryboard                    ElementId=0x22E87EF5130 TargetElementId=0x22E87D5E450
+   4121.3  BeginStoryboard                    ElementId=0x22E87EF5130 TargetElementId=0x22E87D5E450
+   4121.3  BeginStoryboard                    ElementId=0x22E87EF5130 TargetElementId=0x22E87F12EF0
+   4121.3  BeginStoryboard                    ElementId=0x22E87EF5130 TargetElementId=0x22E87AEB3B0
+   4318.1  EndStoryboard                      ElementId=0x22E87EF5130
+   4319.9  CancelTransitions                  =0x0
+   4320.0  StopStoryboard                     ElementId=0x22E87EF5130
+   4320.1  CancelTransitions                  =0x0
+   4321.3  CancelTransitions                  =0x0
+   4321.3  CancelTransitions                  =0x0
